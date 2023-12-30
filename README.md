@@ -1,1 +1,1 @@
-# A simple interface to views user logins
+# A simple interface to view user logins in C
